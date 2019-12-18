@@ -1,0 +1,5 @@
+package com.smartwomen.app.customer.service;
+
+public class LoginService {
+
+}
